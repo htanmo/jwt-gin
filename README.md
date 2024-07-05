@@ -1,4 +1,4 @@
-# JWT-GIN
+# jwt-gin
 
 JWT authentication api using [gin](https://github.com/gin-gonic/gin?tab=readme-ov-file) web framework.
 
